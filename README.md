@@ -5,5 +5,15 @@ Here are some of an endless amount of examples:
 
 
 
-![](images/gl1.png)![](images/gl2.png)![](images/gl3.png)![](images/gl4.png)![](images/gl5.png)![](images/gl6.png)
+![](images/gl1.png)![](images/gl2.png)![](images/gl3.png)
+![](images/gl4.png)![](images/gl5.png)![](images/gl6.png)
+
+#Installation
+You need to download processing to put this code into execution https://processing.org/download/
+
+# Usage
+You copy the folder **data** and **GenerativesLogo.pyde** to your desktop and open the file with processing.
+I wrote this code in Python so it`s necessairy to choose python in the upper righthand corner and click the run button.
+
+ 
 
